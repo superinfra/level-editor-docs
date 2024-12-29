@@ -1,5 +1,5 @@
 # Intro
-This tutorial explains how to use Roblox Studio, the kit, and the optional plugin.
+This tutorial explains how to use the kit and the optional plugin. To learn how to use Roblox Studio, watch the video on [the Tutorials page](/tutorials).
 
 Skill level: **Beginner**\
 Length: **~5 min.**
@@ -29,7 +29,7 @@ Even though the plugin is optional, it takes less than 5 minutes to get and prov
 * Add objects without inserting the kit
 * Open templates from inside Studio
 * See this documentation without opening your browser
-* Easily (create custom blocks)[/tutorials/custom-blocks.md]
+* Easily [create custom blocks](/tutorials/custom-blocks.md)
 
 Download the plugin for free [here]()! <!--TODO: More steps, add link-->
 
