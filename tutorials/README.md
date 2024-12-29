@@ -1,5 +1,5 @@
 # Tutorials
-Find the tutorial you're looking for here, sorted by skill level! Start with [Using the Kit](/tutorials/using-the-kit.md) if you know how to use Studio. If not, watch this YouTube video: <https://www.youtube.com/watch?v=EAtKeffHRRI>[^1]
+Find the tutorial you're looking for here, sorted by skill level! Start with [Using the Kit](/tutorials/using-the-kit.md) if you know how to use Studio. If not, [try the tutorial template](https://github.com/superinfra/level-editor-docs/blob/main/templates/learn-studio.md) or watch this YouTube video: <https://www.youtube.com/watch?v=EAtKeffHRRI>[^1]
 
 Suggest a tutorial on the [Discord](https://discord.gg/s3JJu9ypsJ)!
 
