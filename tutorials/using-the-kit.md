@@ -1,3 +1,4 @@
+# Intro
 This tutorial explains how to use the kit and the optional plugin. Watch the video on [the Tutorials page](/tutorials) to learn how to use Roblox Studio.
 
 Skill level: **Beginner**\
