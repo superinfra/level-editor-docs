@@ -13,7 +13,7 @@ Welcome to the tutorial! First, you should download the kit. Not much you can do
 * Download the .rbxl file directly:
 	1. Go [here](/downloads/kit.rbxl) to download the file.
  	2. Open up a new file in Studio, or [use a template](/templates). (`Ctrl+N` or `Cmd+N` for Mac)
-  3. Right-click the Workspace in the Explorer window (View tab > Explorer) and select `Insert From File`.
+  3. Right-click the Workspace in the Explorer window (View > Explorer) and select `Insert From File`.
   4. Select `kit.rbxl` from the file explorer that appears.
   5. With the kit selected, run this code in the command bar (View > Command Bar, look at the bottom of the screen):
   ```lua
@@ -25,7 +25,7 @@ Welcome to the tutorial! First, you should download the kit. Not much you can do
      
 * Get it from the Creator Marketplace:
   1. Go [here]() <!--TODO: Add link--> and click Get Model, then Try in Studio. 
-  2. Open the Toolbox (View tab > Toolbox) and click the tab with an icon of 4 boxes.
+  2. Open the Toolbox (View > Toolbox) and click the tab with an icon of 4 boxes.
   3. Find `Block Labs Kit` and click it to insert it. It should be the first result.
   4. With the kit selected, run this code in the command bar (View > Command Bar, look at the bottom of the screen):  
 	```lua
@@ -93,9 +93,12 @@ It's time to playtest, but first, move the spawn into the level. Now we can go! 
 
 Build another room behind the door so you can add an exit. Adding the exit is nice and easy: just duplicate the [exit object](/objects/exit) from the kit, and... *drumroll please...* **DRAG!** Whoa, what a plot twist! 
 
-You might notice that the exit part does absolutely nothing. This is intended. The ✨ *magical developer people* ✨ will make it work with their ✨ *magical developer spells* ✨ so that you don't have to lift a finger!
+You might notice that the exit part does absolutely nothing. This is intended. After you submit, the ✨ *magical developer people* ✨ will make it work with their ✨ *magical developer spells* ✨ so that you don't have to lift a finger!
 
-Ok! Now you're done! Good job. Playtest your work and see how epic it is!
+>[!WARNING]
+>The exit will be invisible after review, but if you don't like that, you can add a white part with its material set to `Neon` and a `PointLight` Instance inside. Then just line it up with the exit and you'll have a glowing portal effect!
+
+OK! Now you're done! Good job. Playtest your work and see how epic it is!
 
 See you next time! :)
 
