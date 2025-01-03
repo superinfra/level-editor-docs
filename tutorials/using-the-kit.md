@@ -50,7 +50,7 @@ Even though the plugin is optional, it takes less than 5 minutes to get and prov
 Download the plugin for free [here]()! <!--TODO: More steps, add link-->
 
 # 2. Adding objects (2 min.)
-To add an object, select it and duplicate it by pressing `Ctrl+D` (or `Cmd+D` for Mac). Then, drag the object into your level folder using the Explorer.
+To add an object, select it and duplicate it by pressing `Ctrl+D` (or `Cmd+D` for Mac). Then, use the Explorer to drag the object into your level folder.
 
 >[!TIP]
 >If you have the plugin, duplicated objects will automatically be put in your level folder.
@@ -65,7 +65,12 @@ Now that you know how to add and edit objects, let's put this to use! Open Studi
 >[!IMPORTANT]
 >Add parts by going to the Model tab and clicking the Part button. You can click the dropdown arrow underneath it to pick from other types, like cylinders, spheres, and wedges!
 
-Once you have a good map, start adding objects to make your level... an actual level! You can do whatever you want, but for this tutorial, go ahead and add a button. Duplicate and drag. Put this button anywhere you want! Now add a door. Duplicate and drag. Put this somewhere else. Finally, add a spawner. You guessed it - duplicate and drag!
+Once you have a good map, start adding objects to make your level... an actual level! You can do whatever you want, but for this tutorial, go ahead and add a button. Duplicate and drag. Put this button anywhere you want! Now add a door. Duplicate and drag. Put this somewhere else. Finally, add a spawner. You guessed it - duplicate and drag! If you'd like, you can also add a [light](/objects/light) to get rid of those pesky shadows.
+
+Here's an example of what your level might look like:
+
+<img width="450" alt="Example screenshot" src="https://github.com/user-attachments/assets/4b36ef7b-ba11-45cf-b300-9a57fd681569" />\
+<sup>Example screenshot</sup>
 
 >[!TIP]
 >You might start to notice how annoying it is to move the parts into the level folder. If you don't want to get the plugin for some reason, run this command in the command bar after you duplicate an object:
@@ -77,7 +82,25 @@ Once you have a good map, start adding objects to make your level... an actual l
 >end
 >```
 
-Hopefully that wasn't too hard! Next, we need to change the properties. Change all the properties in this table to the right values:
+Hopefully that wasn't too hard! Next, we need to change the properties. First, let's connect the button and the door together. Expand the button in the Explorer to reveal the properties. Click on DoorToOpen, then on the Value field in the Properties window. Your cursor should change! Now, click on the door **in the Explorer.** If you click the door in the viewport, which is the screen in the middle, you might get an error once you test your work!
 
-|Object|Property  |Value|
-|------|----------|-----|
+What you just changed is called an Instance value! When you try to change Instance values, you have to select something from the Explorer instead of typing.
+
+>[!NOTE]
+>An Instance, in Roblox terms, is something you add to your game to make it function. This includes parts, folders, scripts, and even GUI! You can use any Instance in your level except scripts, because those are disallowed.
+
+It's time to playtest, but first, move the spawn into the level. Now we can go! Press `F5`. Try spawning a block and pushing it into the button! If you set up the properties correctly, the door will open. But... nothing's behind the door. That's kinda boring.
+
+Build another room behind the door so you can add an exit. Adding the exit is nice and easy: just duplicate the [exit object](/objects/exit) from the kit, and... *drumroll please...* **DRAG!** Whoa, what a plot twist! 
+
+You might notice that the exit part does absolutely nothing. This is intended. The ✨ *magical developer people* ✨ will make it work with their ✨ *magical developer spells* ✨ so that you don't have to lift a finger!
+
+Ok! Now you're done! Good job. Playtest your work and see how epic it is!
+
+See you next time! :)
+
+---
+
+<sup>PS: You probably noticed that the ending of this article was a bit more fun and the start was... nerdy and boring. The mood of this article is pretty much just whatever my mood was when I wrote it, so it's pretty inconsistent. Sorry about that! Anyway, you are now manually breathing. Goodbye!</sup>
+
+<sup>© Orbit Productions 2025</sup>
