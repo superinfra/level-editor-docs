@@ -11,3 +11,7 @@ Use lights to brighten dark areas, like indoor rooms. If you need the light to s
 # Tips
 * Use lights indoors to make your level easy to see.
 * On the flip side, don't make any lights too bright! You don't want to hurt anyone's eyes.
+
+---
+
+<sup>© Orbit Productions 2025</sup>
