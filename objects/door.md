@@ -10,3 +10,7 @@ Doors open when its linked door button is activated. When they open, the `Door` 
 
 # Tips
 * You can put this at the start of a conveyor script to stop it from running until the door is opened!
+
+---
+
+<sup>© Orbit Productions 2025</sup>
