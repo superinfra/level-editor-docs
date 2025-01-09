@@ -12,3 +12,7 @@ When pressed by a block, it will open the door specified in the `DoorToOpen` pro
 
 >[!CAUTION]
 >If you change the `DoorToOpen` property using the viewport (the preview in the middle of the screen), it may error. You should always click on the door you want using the Explorer.
+
+---
+
+<sup>© Orbit Productions 2025</sup>
