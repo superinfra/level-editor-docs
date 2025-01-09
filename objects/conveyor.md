@@ -17,3 +17,7 @@ Set the `Direction` and anything that touches its surface will be moved in that 
 
 [^1]: Learn more at the [Conveyor Scripting tutorial](/tutorials/conveyor-scripting.md).
 [^2]: See the official Roblox documentation here: <https://create.roblox.com/docs/en-us/reference/engine/datatypes/Vector3>
+
+---
+
+<sup>© Orbit Productions 2025</sup>
