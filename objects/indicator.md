@@ -10,3 +10,7 @@ On harder puzzles, you can place an indicator where a block should go to help gu
 
 # Tips
 * Don't overuse these unless you want your level to be ridiculously easy!
+
+---
+
+<sup>© Orbit Productions 2025</sup>
