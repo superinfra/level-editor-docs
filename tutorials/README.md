@@ -19,3 +19,7 @@ Suggest a tutorial on the [Discord](https://discord.gg/s3JJu9ypsJ)!
 * [Becoming a Developer](/tutorials/becoming-a-dev.md)
 
 [^1]: We didn't make this video. Credit for it goes to [@bone_blox](https://www.youtube.com/@bone_blox), who has a lot more tutorials on building if you're interested!
+
+---
+
+<sup>© Orbit Productions 2025</sup>
