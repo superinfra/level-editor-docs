@@ -17,3 +17,7 @@ Place the sign wherever you want, select the sign's SurfaceGui's TextLabel, and 
 # Tips
 * Signs are great for guiding players if you don't want to spoil the solution with [indicators](/objects/indicator.md)!
 * They're also useful for introducing custom features.
+
+---
+
+<sup>© Orbit Productions 2025</sup>
