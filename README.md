@@ -18,3 +18,7 @@ Download level templates to help you practice. Try the [tutorial template](/temp
 
 ## Need more help?
 There's no shame in asking for help! Join the Discord: https://discord.gg/s3JJu9ypsJ
+
+---
+
+<sup>© Orbit Productions 2025</sup>
