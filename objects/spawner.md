@@ -13,3 +13,7 @@ When its button is pressed, it will spawn the block specified in the `BlockToSpa
 # Tips
 * Change the `SpawnerID` property to create multiple blocks at the same time!
 * You can delete the gray part to make a custom spawner.
+
+---
+
+<sup>© Orbit Productions 2025</sup>
